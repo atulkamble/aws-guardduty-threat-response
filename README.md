@@ -1,4 +1,4 @@
-Awesome, Atul — here’s a complete, production-style mini-project to **detect & auto-respond to GuardDuty threats** using **EventBridge → SNS + Lambda**. It’s built for quick deploy via Terraform and includes a Python Lambda that can **quarantine or stop EC2 instances** and **disable compromised IAM users**.
+here’s a complete, production-style mini-project to **detect & auto-respond to GuardDuty threats** using **EventBridge → SNS + Lambda**. It’s built for quick deploy via Terraform and includes a Python Lambda that can **quarantine or stop EC2 instances** and **disable compromised IAM users**.
 
 # 🧩 What you’ll build
 
